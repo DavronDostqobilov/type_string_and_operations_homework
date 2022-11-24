@@ -9,4 +9,4 @@ def main(first,last):
     """
     
     return f"{last},{first}"
-print(main('Davron','Do`stqobilov'))
+print(main('Davron','Dostqobilov'))
