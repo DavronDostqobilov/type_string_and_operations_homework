@@ -8,5 +8,5 @@ def main(first,last):
         str: return answer.
     """
     
-    return "{} {}".format(last,first)
+    return "{},{}".format(last,first)
 print(main('Davron','Do`stqobilov'))
